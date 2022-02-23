@@ -1,0 +1,82 @@
+.D{
+    background-color: white;
+    float: right;
+    border: black 5px solid;
+    width: 20%;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+    color: red;
+
+}
+
+.s{
+    background-color: aliceblue;
+    float: right;
+    border: black 5px solid;
+    width: 40.5%;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+    margin-right: 5px;
+
+}
+
+.l{
+    background-color: aliceblue;
+    float: left;
+    border: black 5px solid;
+    width: 20%;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+    margin-right: 50px
+}
+
+.c{
+    background-color: aliceblue;
+    float: left;
+    border: black 5px solid;
+    width: 20%;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+    margin-right: 50px;
+    margin-top: 10px;
+}
+.f{
+    background-color: aliceblue;
+    float: right;
+    border: black 5px solid;
+    width: 9.5%;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+    margin-top: 10px;
+    margin-right: 3px;
+}
+
+.e{
+    background-color: aliceblue;
+    border: black 5px solid;
+    float: left;
+    width: 99.5%;
+    height: 200px;
+    text-align: center;
+    padding-top: 15px;
+    margin-top: 10px;
+    border-radius: 15px;
+    border-radius: 15px;
+}
+
+.p{
+    background-color:aqua;
+    border: black 5px solid;
+    float: left;
+    width: 15.5%;
+    height: 100px;
+    text-align: center;
+    padding-top: 15px;
+    margin-top: 10px;
+    margin-right: 7.5px;
+}
